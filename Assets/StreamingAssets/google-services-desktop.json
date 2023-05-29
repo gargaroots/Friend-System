@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "611087390385",
+    "firebase_url": "https://friend-system.firebaseio.com",
+    "project_id": "friend-system",
+    "storage_bucket": "friend-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611087390385:ios:653d06532c0a958683b490",
+        "android_client_info": {
+          "package_name": "com.Gabe-Rocha.Friend-System"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKO0bu2slDTLl-o935bXN10KHJ0mkJ9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611087390385-17qtss6rr21tsk8jb2p107rtfim57ia5.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
